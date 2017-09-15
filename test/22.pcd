@@ -1,0 +1,7 @@
+JMP 0 1
+INT 0 6
+LIT 0 0
+STO 0 3
+LIT 0 1
+STO 0 5
+OPR 0 0

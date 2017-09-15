@@ -1,0 +1,9 @@
+var s,i,n;
+begin
+  i:=4;
+  s:=0;
+  n:=5;
+  if i>n then s:=i
+  else s:=n;
+  write(s);
+end.

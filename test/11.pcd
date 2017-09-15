@@ -1,0 +1,6 @@
+JMP 0 4
+JMP 0 2
+INT 0 5
+OPR 0 0
+INT 0 8
+OPR 0 0

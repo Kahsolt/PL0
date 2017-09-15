@@ -1,0 +1,14 @@
+var s,i,n
+begin
+  s:=1;
+  i:=0;
+  n:=2;
+  repeat 
+  begin
+    s:=s*2;
+    i:=i+1;
+  end
+  until i>n;
+  write(s);
+  write(n);
+end.
